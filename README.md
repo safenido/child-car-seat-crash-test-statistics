@@ -106,8 +106,8 @@ Also on **[GitHub](https://github.com/safenido/child-car-seat-crash-test-statist
 The data behind these files is used on [Safe Nido](https://www.safenido.fr/), an independent French guide to child car seats built on twenty years of crash tests.
 
 - [Every ADAC result, explained](https://www.safenido.fr/test-adac/)
-- [How to read an ADAC grade](https://www.safenido.fr/crash-test-siege-auto/lire-une-note-adac/)
-- [Autumn 2026 ADAC session](https://www.safenido.fr/guides/crash-test-adac-automne-2026/)
+- [How to read an ADAC grade](https://www.safenido.fr/test-adac/comment-lire-note-adac/)
+- [Autumn 2026 ADAC session](https://www.safenido.fr/test-adac/automne-2026/)
 - [Seats to avoid](https://www.safenido.fr/sieges-auto-a-eviter/)
 
 ---
