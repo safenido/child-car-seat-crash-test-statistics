@@ -2,7 +2,7 @@
 
 ![Child Car Seat Crash Test Statistics 2007-2026](images/cover.png)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24154292.svg)](https://doi.org/10.5281/zenodo.24154292) [![Kaggle](https://img.shields.io/badge/Kaggle-dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/safenido/child-car-seat-crash-test-statistics) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-dataset-FFD21E)](https://huggingface.co/datasets/safenido/child-car-seat-crash-test-statistics) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Safe Nido](https://img.shields.io/badge/Safe%20Nido-safenido.fr-1c2b4b)](https://www.safenido.fr/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24154292.svg)](https://doi.org/10.5281/zenodo.24154292) [![Kaggle](https://img.shields.io/badge/Kaggle-dataset-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/safenido/child-car-seat-crash-test-statistics-2007-2026) [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-dataset-FFD21E)](https://huggingface.co/datasets/safenido/child-car-seat-crash-test-statistics) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Safe Nido](https://img.shields.io/badge/Safe%20Nido-safenido.fr-1c2b4b)](https://www.safenido.fr/)
 
 **English first, version française plus bas.**
 
@@ -97,9 +97,9 @@ Source. Published results of the ADAC and ÖAMTC child seat tests 2007-2026, agg
 
 Archived on **[Zenodo](https://doi.org/10.5281/zenodo.24154292)** with a permanent DOI, 10.5281/zenodo.24154292.
 
-Companion datasets, **[Child Car Seat Specifications Europe](https://github.com/safenido/child-car-seat-specs)** ([Kaggle](https://www.kaggle.com/datasets/safenido/child-car-seat-specs), [Hugging Face](https://huggingface.co/datasets/safenido/child-car-seat-specs)), **[Child Car Seat Recalls Europe 2016-2026](https://github.com/safenido/child-car-seat-recalls-europe)** ([Kaggle](https://www.kaggle.com/datasets/safenido/child-car-seat-recalls-europe), [Hugging Face](https://huggingface.co/datasets/safenido/child-car-seat-recalls-europe)). All Safe Nido datasets are listed in **[Child Passenger Safety Datasets](https://github.com/safenido/child-passenger-safety-datasets)**.
+Companion datasets, **[Child Car Seat Specifications Europe](https://github.com/safenido/child-car-seat-specs)** ([Kaggle](https://www.kaggle.com/datasets/safenido/child-car-seat-specifications-europe), [Hugging Face](https://huggingface.co/datasets/safenido/child-car-seat-specs)), **[Child Car Seat Recalls Europe 2016-2026](https://github.com/safenido/child-car-seat-recalls-europe)** ([Kaggle](https://www.kaggle.com/datasets/safenido/child-car-seat-recalls-europe-2016-2026), [Hugging Face](https://huggingface.co/datasets/safenido/child-car-seat-recalls-europe)). All Safe Nido datasets are listed in **[Child Passenger Safety Datasets](https://github.com/safenido/child-passenger-safety-datasets)**.
 
-Also on **[GitHub](https://github.com/safenido/child-car-seat-crash-test-statistics)**, **[Kaggle](https://www.kaggle.com/datasets/safenido/child-car-seat-crash-test-statistics)** with a starter notebook, and **[Hugging Face](https://huggingface.co/datasets/safenido/child-car-seat-crash-test-statistics)**, ready for the `datasets` library.
+Also on **[GitHub](https://github.com/safenido/child-car-seat-crash-test-statistics)**, **[Kaggle](https://www.kaggle.com/datasets/safenido/child-car-seat-crash-test-statistics-2007-2026)** with a starter notebook, and **[Hugging Face](https://huggingface.co/datasets/safenido/child-car-seat-crash-test-statistics)**, ready for the `datasets` library.
 
 ### On Safe Nido
 
